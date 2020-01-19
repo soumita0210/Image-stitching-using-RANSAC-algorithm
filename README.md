@@ -11,4 +11,4 @@ Right Image
 
 Resulting Stitched Image:
 
-![I](result.jpg)
+![I](task2_result.jpg)
